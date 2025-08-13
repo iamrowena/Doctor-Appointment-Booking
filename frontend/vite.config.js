@@ -5,6 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Doctor-Appointment-Booking/frontend/',
+  base: '/Doctor-Appointment-Booking,
   plugins: [react(), tailwindcss()],
 })
